@@ -1,9 +1,5 @@
 ## Welcome to My Personal Page
-<dr>
-</dr>
-<p align="center">
-<a href="https://imgur.com/8Omb1vx"><img src="https://i.imgur.com/8Omb1vx.png" title="source: imgur.com" /></a>
-</p>
+
 ### 👨🏻‍🎓 Education Backgound  
 **Georgia Institute of Technology** – Atlanta, GA
 - Candidate for Master of Science in Computer Science
